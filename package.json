@@ -1,9 +1,10 @@
 {
   "name": "mern-booklist",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "aap.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "frontend": "npm run dev --prefix client",
+    "backend": "npm run app --prefix backend"
   },
   "author": "",
   "license": "ISC",
