@@ -53,4 +53,4 @@ A full-stack booklist application built with the MERN stack (MongoDB, Express.js
 
 This project is licensed under the MIT License.
 
-    ![alt text](https://github.com/TechnicalDiary/mern-booklist/blob/main/assets/image-1.png)
+    ![alt text](https://github.com/TechnicalDiary/mern-booklist/blob/main/assets/image-1)
