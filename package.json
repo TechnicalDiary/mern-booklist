@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "main": "aap.js",
   "scripts": {
-    "frontend": "npm run dev --prefix client",
-    "backend": "npm run app --prefix backend"
+    "frontend-dev": "npm run dev --prefix client",
+    "frontend-build": "npm run build --prefix client",
+    "backend-serve": "npm run app --prefix backend"
   },
   "author": "",
   "license": "ISC",
