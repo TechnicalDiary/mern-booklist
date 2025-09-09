@@ -8,6 +8,7 @@ A full-stack booklist application built with the MERN stack (MongoDB, Express.js
 - View a list of all books
 - Responsive user interface
 - RESTful API backend
+- CI/CD pipeline 
 
 ## Technologies Used
 
@@ -35,12 +36,12 @@ A full-stack booklist application built with the MERN stack (MongoDB, Express.js
 
 3. **Start the backend server:**
     ```bash
-    npm run backend
+    npm run backend-serve
     ```
 
 4. **Start the frontend React app:**
     ```bash
-    npm run frontend
+    npm run frontend-dev
     ```
 
 ## Folder Structure
@@ -52,5 +53,5 @@ A full-stack booklist application built with the MERN stack (MongoDB, Express.js
 
 This project is licensed under the MIT License.
 
-    ![alt text](image.png)
+    ![alt text](https://github.com/TechnicalDiary/mern-booklist/blob/main/assets/image-1.png)
     ![alt text](image-1.png)
