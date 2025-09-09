@@ -5,7 +5,7 @@
   "scripts": {
     "frontend-dev": "npm run dev --prefix client",
     "frontend-build": "npm run build --prefix client",
-    "backend-serve": "npm run app --prefix backend",
+    "backend-serve": "npm run app --prefix backend"
   },
   "author": "",
   "license": "ISC",
